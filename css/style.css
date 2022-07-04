@@ -13,7 +13,7 @@ body{
 /* first section part start---------------*/
 
 .section-1{
-    background-image: url(/images/top-banner.png);
+    background-image: url("../images/top-banner.png");
     background-repeat: no-repeat;
 }
 
