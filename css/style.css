@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* first section part start---------------*/
+
+.section-1{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.section-1{
+    display: flex;
+}
+
+.first-section #big{
+    font-size: 54px;
+    margin-top: 10px;
+}
+.first-section h1{
+    font-size: 44px;
+    margin-top: 10px;
+}
+.first-section span{
+    color: orange;
+}
+.first-section h3{
+    font-weight: 500;
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.first-section p{
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: justify;
+    word-spacing: -1px;
+}
+
+ .first-section .btn{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(236, 153, 153),rgb(255, 73, 73));
+    color:white;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1px;
+ }
+
+.first-section{
+    width: 50%;
+    padding: 50px;
+}
+.section-1 .first-section img{
+    width: 70%;
+    margin:0px 0px 0px 80px
+}
