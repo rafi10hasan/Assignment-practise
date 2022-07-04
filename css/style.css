@@ -74,6 +74,7 @@ body{
     background-image: url("../images/dream-bg.png");
     background-position: right;
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 
 }
 .second-section{
@@ -118,3 +119,69 @@ body{
     font-weight: bold;
     letter-spacing: 1px;
  }
+
+
+ /* section 2 end here---------------- */
+
+
+ /* section 3 start here------------------- */
+
+ #exp{
+    margin: 50px 0px;
+    text-align: center;
+    color: orange;
+    
+ }
+
+ 
+
+   .section-3{
+    display: flex;
+    margin-bottom: 50px;
+    background-image: url("../images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    
+   
+
+   }
+
+   .third-section {
+    height: 55vh;
+    width:40%;
+    background-color:rgb(251, 251, 251);
+    box-shadow: 8px 8px 22px 2px #e0e0e0;
+    padding:50px;
+    margin-left: 70px;
+    margin-right: 50px;
+    
+   }
+  
+
+   .third-section h1{
+    font-size: 30px;
+    padding-bottom: 10px;
+   }
+
+   .third-section span{
+    font-size: 20px;
+    color: orange;
+    font-weight: 500;
+   }
+
+   .third-section p{
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    margin-top: 20px;
+   }
+
+   #border-1{
+    border-left: 6px solid rgb(255, 102, 0);
+   }
+
+   #border-2{
+    border-left: 6px solid rgb(31, 31, 212);
+   }
+ /* section 3 end here------------------- */
