@@ -63,3 +63,58 @@ body{
     width: 70%;
     margin:0px 0px 0px 80px
 }
+
+/* section 1 end here-------------*/
+
+
+/* section 2 start here---------------- */
+
+.section-2{
+    display: flex;
+    background-image: url("../images/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.second-section{
+    width: 50%;
+}
+#sec-sec{
+    margin-top: 100px;
+    width: 40%;
+}
+
+.second-section h2{
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+.second-section h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.second-section span{
+    color:orange;
+}
+
+.second-section p{
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 30px;
+   
+
+}
+.section-2 .second-section img{
+    width: 70%;
+    margin:0px 0px 0px 80px
+}
+
+.second-section .btn1{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(236, 153, 153),rgb(255, 73, 73));
+    color:white;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1px;
+ }
